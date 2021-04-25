@@ -9,7 +9,7 @@
                                 <h2>Blog Page</h2>
                                 <ul class="breadcrumb-menu">
                                     <li class="breadcrumb-items"><a href="index.html" title="Home">Home</a></li>
-                                    <li class="active">Blog date_formatssss sdfsa dsfads </li>
+                                    <li class="active">Blog</li>
                                 </ul>
                             </div>
                         </div>
