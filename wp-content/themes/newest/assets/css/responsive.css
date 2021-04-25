@@ -1,0 +1,196 @@
+/* Normal desktop :1200px. */
+@media (min-width: 1200px) and (max-width: 1500px) {	
+.screenshot-frame img {
+	max-width: 540px;
+}
+.features-image {
+	margin-right: 0;
+}
+.screenshot-area {
+	padding-bottom: 170px;
+}
+}
+/* Normal desktop :992px. */
+@media (min-width: 992px) and (max-width: 1200px) {
+.header-area.sticky {
+    padding: 15px 0;
+    padding-bottom: 0;
+}
+.header-right {
+	margin-right: 80px;
+}
+.screenshot-active {
+	padding: 0 0;
+}
+.screenshot-frame img {
+	max-width: 400px;
+}
+.screens {
+	padding: 0 0;
+}
+.features-image{
+	margin-right: 0;
+}
+
+.footer-widget {
+	padding-left: 0;
+}
+.tagcloud {
+	padding-right: 0;
+}
+.features-image .image-two img {
+	max-width: 440px;
+}
+.features-image .image-one img {
+	width: 100%;
+}
+.screenshot-area {
+	padding-bottom: 140px;
+}
+.image-block img {
+	max-width: 390px;
+}
+}
+/* Tablet desktop :768px. */
+@media (min-width: 768px) and (max-width: 991px) {
+.header-area.sticky {
+    padding: 15px 0;
+    padding-bottom: 0;
+}
+.header-right {
+    margin-right: 80px;
+}
+.slider-height {
+	min-height: 600px;
+}
+.single-counter p::after {
+	display: none;
+}
+.screenshot-frame {
+	display: none;
+}
+.screens {
+	padding: 0 0;
+}
+.contact-form {
+	padding-left: 60px;
+}
+.contact-us {
+	margin-bottom: 30px;
+}
+.footer-widget {
+	padding-left: 0;
+}
+.screenshot-area {
+	padding-bottom: 120px;
+}
+.screenshot-active {
+	padding: 0;
+}
+.faq-area{
+	padding-bottom: 210px;
+}
+}
+/* small mobile :320px. */
+@media (max-width: 767px) {
+.header-area.sticky {
+	padding: 15px;
+	padding-bottom: 0;
+}
+.mean-container a.meanmenu-reveal {
+	margin-top: -38px;
+}
+.slider-height {
+	min-height: 720px;
+}
+.slider-height {
+	min-height: 720px;
+}
+.slider-content h2 {
+	font-size: 42px;
+}
+.slider-btn {
+	margin-bottom: 30px;
+}
+.slider-video {
+	margin-left: 0;
+}
+.single-counter p::after{
+	display: none;
+}
+.features-image{
+	margin-right: 0;
+}
+.faq-accordion .btn-link {
+	font-size: 14px;
+	padding: 0 5px;
+}
+.faq-accordion .btn-link::after{
+	display: none;
+}
+.screenshot-active {
+	padding: 0;
+}
+.contact-us {
+	margin-bottom: 30px;
+	padding-left: 30px;
+}
+.contact-form {
+	padding-left: 30px;
+	padding-right: 30px;
+}
+.footer-widget {
+	padding-left: 0;
+}
+.page-header {
+	padding-top: 150px;
+	padding-bottom: 100px;
+}
+.section-header h2 {
+	font-size: 35px;
+}
+.entry-content .blog-title {
+	padding-right: 0;
+}
+.social-share {
+	float: left;
+}
+.tagcloud {
+	padding-right: 0;
+}
+.screenshot-frame {
+	display: none;
+}
+.screens {
+	padding: 0 0;
+}
+.screenshot-item img {
+	padding: 0;
+}
+.screenshot-area {
+	padding-bottom: 120px;
+}
+.image-two img {
+	max-width: 270px;
+}
+.faq-images {
+	display: none;
+}
+.faq-accordion .card-body {
+	padding: 15px;
+}
+.image-block img {
+	width: 100%;
+}
+.image-block .image-two {
+	display: none;
+}
+.image-block .image-three {
+	display: none;
+}
+}
+/* Large Mobile :480px. */
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+.container {width:450px}
+ 
+}
